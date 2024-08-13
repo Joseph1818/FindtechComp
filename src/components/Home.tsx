@@ -16,7 +16,7 @@ const Home: React.FC<HomeProps> = ({ title }) => {
 
       <h1>{title}</h1>
       <p>
-        FindtechComp is a project created by {" "}
+        FindtechComp is a built by {" "}
         <a
           href="https://www.linkedin.com/in/joseph-umba-75a9051b0/"
           target="_blank"
