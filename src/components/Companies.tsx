@@ -1,5 +1,6 @@
 import { Outlet, NavLink } from "react-router-dom";
 import { getCategories } from "../api";
+import InputField from "./InputField";
 
 interface Category {
   id: string;
@@ -11,7 +12,15 @@ export default function Compagnies() {
   return (
     <div className="container">
       <h1>Search Companies 🇿🇦</h1>
-      <ul className="categories">
+        <InputField/>
+
+
+
+
+
+
+
+      {/* <ul className="categories">
         {categories.map((cat) => (
           <li key={cat.id}>
             <NavLink
@@ -24,7 +33,7 @@ export default function Compagnies() {
             </NavLink>
           </li>
         ))}
-      </ul>
+      </ul> */}
      
     </div>
   );
