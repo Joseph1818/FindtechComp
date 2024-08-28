@@ -1,5 +1,4 @@
-import {Routes,Route,Link } from "react-router-dom";
-import React from 'react';
+import {Routes,Route } from "react-router-dom";
 import './App.css';
 import SplashScreen from './splashScreen';
 import Home from "./Home";
