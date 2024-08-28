@@ -1,4 +1,3 @@
-import { Outlet, NavLink } from "react-router-dom";
 import { getCategories } from "../api";
 import InputField from "./InputField";
 
