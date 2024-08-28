@@ -13,13 +13,6 @@ export default function Compagnies() {
     <div className="container">
       <h1>Search Companies 🇿🇦</h1>
         <InputField/>
-
-
-
-
-
-
-
       {/* <ul className="categories">
         {categories.map((cat) => (
           <li key={cat.id}>

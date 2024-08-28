@@ -13,7 +13,7 @@ const SplashScreen: React.FC = () => {
     useEffect(() => {
         const hideFirstTextTimer = setTimeout(() => {
             setFadeOutFirstText(true);
-        }, 3000);
+        }, 2000);
 
         
         const showSecondTextTimer = setTimeout(() => {
@@ -39,7 +39,7 @@ const SplashScreen: React.FC = () => {
             setIsVisible(false);
         }, 12000);
 
-        // Cleanup timers
+     
         return () => {
             clearTimeout(hideFirstTextTimer);
             clearTimeout(showSecondTextTimer);

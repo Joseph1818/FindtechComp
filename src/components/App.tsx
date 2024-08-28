@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App">
 
-      <SplashScreen />
+      {/* <SplashScreen /> */}
     <HearderComponent/>
     <Routes>
       <Route path="/" element={<Home title="" />}/>
