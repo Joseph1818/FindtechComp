@@ -19,25 +19,25 @@ const SplashScreen: React.FC = () => {
         const showSecondTextTimer = setTimeout(() => {
             setShowFirstText(false);
             setShowSecondText(true);
-        }, 4000);
+        }, 3000);
         const hideSecondTextTimer = setTimeout(() => {
             setFadeOutSecondText(true);
-        }, 7000);
+        }, 5000);
 
         const showThirdTextTimer = setTimeout(() => {
             setShowSecondText(false);
             setShowThirdText(true);
-        }, 8000);
+        }, 6000);
 
 
         const hideThirdTextTimer = setTimeout(() => {
             setFadeOutThirdText(true);
-        }, 11000);
+        }, 8000);
 
       
         const hideSplashScreenTimer = setTimeout(() => {
             setIsVisible(false);
-        }, 12000);
+        }, 9000);
 
      
         return () => {
