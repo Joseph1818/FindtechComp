@@ -1,4 +1,3 @@
-import { getCategories } from "../api";
 import InputField from "./InputField";
 
 // interface Category {
