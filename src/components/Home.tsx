@@ -24,7 +24,7 @@ const Home: React.FC<HomeProps> = ({ title }) => {
         >
           @Umba_J 
         </a>
-        The information provided on this platform, including company details and contact information, is compiled to aid users in directly reaching out to potential employers. Any resemblance to real products, services, or companies is purely coincidental. The data offered on this site should be used as a resource and does not guarantee job placement or availability of positions. Users are encouraged to verify information with the respective companies.
+         The information provided on this platform, including company details and contact information, is compiled to aid users in directly reaching out to potential employers. Please note that FindtecComp is currently under development. Any resemblance to real products, services, or companies is purely coincidental. The data offered on this site should be used as a resource and does not guarantee job placement or availability of positions. Users are encouraged to verify information with the respective companies.
       </p>
     </div>
   );
