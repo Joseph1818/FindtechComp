@@ -6,12 +6,9 @@ import Compagnies from "./Companies";
 import HearderComponent from "./HeaderComponents";
 import Carries from "./Carries";
 
-
-
 function App() {
   return (
     <div className="App">
-
       <SplashScreen />
     <HearderComponent/>
     <Routes>

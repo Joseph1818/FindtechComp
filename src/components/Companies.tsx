@@ -1,4 +1,6 @@
-import InputField from "./InputField";
+import SearchBar from "./SearchBar";
+import Bookdata from "./data.json"
+
 
 // interface Category {
 //   id: string;
@@ -7,11 +9,12 @@ import InputField from "./InputField";
 
 export default function Compagnies() {
   // const categories: Category[] = getCategories();
+
+  
   return (
     <div className="container">
       <h1>Search Companies 🇿🇦</h1>
-        <InputField/>
-     
+     <SearchBar placeholder="Search By Suburb" data={Bookdata} />
     </div>
   );
 }

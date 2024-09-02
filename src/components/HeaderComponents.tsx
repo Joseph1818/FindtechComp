@@ -9,7 +9,7 @@ const HearderComponent: React.FC = () => {
 <nav>
 <Link to="/">Home</Link>
 <Link to="/companies">Companies</Link>
-<Link to="/carries">Carries</Link>
+<Link to="/carries">careers</Link>
 </nav>
 </header>
   )
