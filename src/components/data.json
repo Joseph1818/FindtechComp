@@ -3,43 +3,47 @@
     "name": "CBD Town",
     "suburb": "Nigeria",
     "email": "images/things-fall-apart.jpg",
-    "physicalAdress": "gdgahdgadgbdh",
+    "physicalAddress": "gdgahdgadgbdh",
     "phoneNum": "English",
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
   },
-   {
+  {
     "name": "Century City",
     "suburb": "Nigeria",
     "email": "images/things-fall-apart.jpg",
-    "physicalAdress": "gdgahdgadgbdh",
+    "physicalAddress": "gdgahdgadgbdh",
     "phoneNum": "English",
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
-  }, {
+  },
+  {
     "name": "Milnerton",
     "suburb": "Nigeria",
     "email": "images/things-fall-apart.jpg",
-    "physicalAdress": "gdgahdgadgbdh",
+    "physicalAddress": "gdgahdgadgbdh",
     "phoneNum": "English",
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
-  }, {
+  },
+  {
     "name": "GoodWood",
     "suburb": "Nigeria",
     "email": "images/things-fall-apart.jpg",
-    "physicalAdress": "gdgahdgadgbdh",
+    "physicalAddress": "gdgahdgadgbdh",
     "phoneNum": "English",
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
-  },{
+  },
+  {
     "name": "Parkland",
     "suburb": "Nigeria",
     "email": "images/things-fall-apart.jpg",
-    "physicalAdress": "gdgahdgadgbdh",
+    "physicalAddress": "gdgahdgadgbdh",
     "phoneNum": "English",
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
-  }, {
+  },
+  {
     "name": "BellVille",
     "suburb": "Nigeria",
     "email": "images/things-fall-apart.jpg",
-    "physicalAdress": "gdgahdgadgbdh",
+    "physicalAddress": "gdgahdgadgbdh",
     "phoneNum": "English",
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
   },
@@ -47,37 +51,39 @@
     "name": "Kraaifontain",
     "suburb": "Nigeria",
     "email": "images/things-fall-apart.jpg",
-    "physicalAdress": "gdgahdgadgbdh",
+    "physicalAddress": "gdgahdgadgbdh",
     "phoneNum": "English",
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
-  },{
+  },
+  {
     "name": "Paarl",
     "suburb": "Nigeria",
     "email": "images/things-fall-apart.jpg",
-    "physicalAdress": "gdgahdgadgbdh",
+    "physicalAddress": "gdgahdgadgbdh",
     "phoneNum": "English",
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
-  }
-  ,{
+  },
+  {
     "name": "Observatory",
     "suburb": "Nigeria",
     "email": "images/things-fall-apart.jpg",
-    "physicalAdress": "gdgahdgadgbdh",
+    "physicalAddress": "gdgahdgadgbdh",
     "phoneNum": "English",
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
-  }
-  ,{
+  },
+  {
     "name": "Clairmont",
     "suburb": "Nigeria",
     "email": "images/things-fall-apart.jpg",
-    "physicalAdress": "gdgahdgadgbdh",
+    "physicalAddress": "gdgahdgadgbdh",
     "phoneNum": "English",
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
-  },{
+  },
+  {
     "name": "Randebosh",
     "suburb": "Nigeria",
     "email": "images/things-fall-apart.jpg",
-    "physicalAdress": "gdgahdgadgbdh",
+    "physicalAddress": "gdgahdgadgbdh",
     "phoneNum": "English",
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
   },
@@ -85,9 +91,8 @@
     "name": "Pinelands",
     "suburb": "Nigeria",
     "email": "images/things-fall-apart.jpg",
-    "physicalAdress": "gdgahdgadgbdh",
+    "physicalAddress": "gdgahdgadgbdh",
     "phoneNum": "English",
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
   }
-
 ]

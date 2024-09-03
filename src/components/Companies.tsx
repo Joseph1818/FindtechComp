@@ -3,8 +3,6 @@ import CompagnieData from "./data.json"
 
 export default function Compagnies() {
  
-
-  
   return (
     <div className="container">
       <h1>Search Companies 🇿🇦</h1>
