@@ -48,7 +48,7 @@ const SearchBar: React.FC<SearchBarProps> = ({ placeholder, data }) => {
         </div>
       </div>
 
-      { filterData.length != 0 && ( <div className='dataResult'>
+      { filterData.length !== 0 && ( <div className='dataResult'>
         {filterData.map((value, key) => (
           <div className="" key={key}>
             <p className='dataItem'>{value.name}</p>
