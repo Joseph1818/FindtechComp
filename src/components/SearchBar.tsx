@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useState} from 'react';
 import SearchIcon from '@mui/icons-material/Search';
 
 interface DataItem {
@@ -16,21 +16,41 @@ interface SearchBarProps {
 }
 
 const SearchBar: React.FC<SearchBarProps> = ({ placeholder, data }) => {
+
+  const [filterData, setFilterData] = useState <DataItem[]>([]);
+
+  const handleFilter = (event: React.ChangeEvent<HTMLInputElement>) => {
+    const searchFilter = event.target.value;
+
+    const newFilter = data.filter((value) => {
+      return value.name.toLowerCase().includes(searchFilter.toLowerCase());
+    })
+
+    if (searchFilter === ""){
+      setFilterData([]);
+    } else {
+    setFilterData(newFilter);
+    }
+  
+  }
+
   return (
     <div className='input'>
       <div className='searchInputs'>
-        <input type='text' placeholder={placeholder} />
+        <input type='text' placeholder={placeholder} onChange={handleFilter} />
         <div className='searchIcon'>
           <SearchIcon />
         </div>
       </div>
-      <div className='dataResult'>
-        {data.map((value, key) => (
+
+      { filterData.length != 0 && ( <div className='dataResult'>
+        {filterData.map((value, key) => (
           <div className="" key={key}>
             <p className='dataItem'>{value.name}</p>
           </div>
         ))}
-      </div>
+      </div>)}
+    
     </div>
   );
 };
