@@ -1,8 +1,6 @@
 import SearchBar from "./SearchBar";
 import CompagnieData from "./data.json"
 
-
-
 export default function Compagnies() {
  
 

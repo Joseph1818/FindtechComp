@@ -1,5 +1,6 @@
 import React, {useState} from 'react';
 import SearchIcon from '@mui/icons-material/Search';
+import CloseIcon from '@mui/icons-material/Close';
 
 interface DataItem {
   name: string;
@@ -31,6 +32,10 @@ const SearchBar: React.FC<SearchBarProps> = ({ placeholder, data }) => {
     } else {
     setFilterData(newFilter);
     }
+  }
+
+  const clearInput = () => {
+  setFilterData([]);
   
   }
 
@@ -39,7 +44,7 @@ const SearchBar: React.FC<SearchBarProps> = ({ placeholder, data }) => {
       <div className='searchInputs'>
         <input type='text' placeholder={placeholder} onChange={handleFilter} />
         <div className='searchIcon'>
-          <SearchIcon />
+          {filterData.length === 0 ? <SearchIcon /> : <CloseIcon id="clearButton" onClick={clearInput} /> }
         </div>
       </div>
 
