@@ -18,6 +18,7 @@ interface SearchBarProps {
 
 const SearchBar: React.FC<SearchBarProps> = ({ placeholder, data }) => {
   const [filterData, setFilterData] = useState<DataItem[]>([]);
+  const [wordEntered, setWordEntered] = useState<DataItem[]>([]);
 
   const handleFilter = (event: React.ChangeEvent<HTMLInputElement>) => {
     const searchFilter = event.target.value;
