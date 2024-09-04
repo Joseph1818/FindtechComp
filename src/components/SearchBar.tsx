@@ -18,16 +18,16 @@ interface SearchBarProps {
 
 const SearchBar: React.FC<SearchBarProps> = ({ placeholder, data }) => {
   const [filterData, setFilterData] = useState<DataItem[]>([]);
-  const [wordEntered, setWordEntered] = useState<DataItem[]>([]);
+  const [wordEntered, setWordEntered] = useState<string>("");
 
   const handleFilter = (event: React.ChangeEvent<HTMLInputElement>) => {
-    const searchFilter = event.target.value;
-
+    const searchWord = event.target.value;
+    setWordEntered(searchWord)
     const newFilter = data.filter((value) => {
-      return value.name.toLowerCase().includes(searchFilter.toLowerCase());
+      return value.name.toLowerCase().includes(searchWord.toLowerCase());
     });
 
-    if (searchFilter === "") {
+    if (searchWord === "") {
       setFilterData([]);
     } else {
       setFilterData(newFilter);
@@ -41,7 +41,7 @@ const SearchBar: React.FC<SearchBarProps> = ({ placeholder, data }) => {
   return (
     <div className="input">
       <div className="searchInputs">
-        <input type="text" placeholder={placeholder} onChange={handleFilter} />
+        <input type="text" placeholder={placeholder} value={wordEntered} onChange={handleFilter} />
         <div className="searchIcon">
           {filterData.length === 0 ? (
             <SearchIcon />
