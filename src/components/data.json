@@ -1,98 +1,335 @@
 [
   {
     "name": "CBD Town",
-    "suburb": "Nigeria",
+    "suburb": "Green Point",
     "email": "images/things-fall-apart.jpg",
     "physicalAddress": "gdgahdgadgbdh",
     "phoneNum": "English",
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
   },
   {
-    "name": "Century City",
-    "suburb": "Nigeria",
+    "name": "CBD Town",
+    "suburb": "Athlone",
     "email": "images/things-fall-apart.jpg",
     "physicalAddress": "gdgahdgadgbdh",
     "phoneNum": "English",
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
   },
   {
-    "name": "Milnerton",
-    "suburb": "Nigeria",
+    "name": "CBD Town",
+    "suburb": "Epping",
     "email": "images/things-fall-apart.jpg",
     "physicalAddress": "gdgahdgadgbdh",
     "phoneNum": "English",
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
   },
   {
-    "name": "GoodWood",
-    "suburb": "Nigeria",
+    "name": "CBD Town",
+    "suburb": "Kalksteenfontein",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  },{
+    "name": "CBD Town",
+    "suburb": "Ottery",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  },{
+    "name": "CBD Town",
+    "suburb": "Franschhoek",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  },{
+    "name": "CBD Town",
+    "suburb": "Stellenbosch",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  },{
+    "name": "CBD Town",
+    "suburb": "Wellington",
     "email": "images/things-fall-apart.jpg",
     "physicalAddress": "gdgahdgadgbdh",
     "phoneNum": "English",
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
   },
   {
-    "name": "Parkland",
-    "suburb": "Nigeria",
+    "name": "CBD Town",
+    "suburb": "Zonnebloem (District Six)",
     "email": "images/things-fall-apart.jpg",
     "physicalAddress": "gdgahdgadgbdh",
     "phoneNum": "English",
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
   },
   {
-    "name": "BellVille",
-    "suburb": "Nigeria",
+    "name": "CBD Town",
+    "suburb": "Woodstock",
     "email": "images/things-fall-apart.jpg",
     "physicalAddress": "gdgahdgadgbdh",
     "phoneNum": "English",
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
   },
   {
-    "name": "Kraaifontain",
-    "suburb": "Nigeria",
+    "name": "CBD Town",
+    "suburb": "Woodstock",
     "email": "images/things-fall-apart.jpg",
     "physicalAddress": "gdgahdgadgbdh",
     "phoneNum": "English",
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
   },
   {
-    "name": "Paarl",
-    "suburb": "Nigeria",
+    "name": "CBD Town",
+    "suburb": "De Waterkant",
     "email": "images/things-fall-apart.jpg",
     "physicalAddress": "gdgahdgadgbdh",
     "phoneNum": "English",
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
   },
   {
-    "name": "Observatory",
-    "suburb": "Nigeria",
+    "name": "CBD Town",
+    "suburb": "Kuils River",
     "email": "images/things-fall-apart.jpg",
     "physicalAddress": "gdgahdgadgbdh",
     "phoneNum": "English",
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
   },
   {
-    "name": "Clairmont",
-    "suburb": "Nigeria",
+    "name": "CBD Town",
+    "suburb": "",
     "email": "images/things-fall-apart.jpg",
     "physicalAddress": "gdgahdgadgbdh",
     "phoneNum": "English",
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
   },
   {
-    "name": "Randebosh",
-    "suburb": "Nigeria",
+    "name": "CBD Town",
+    "suburb": "Somerset West",
     "email": "images/things-fall-apart.jpg",
     "physicalAddress": "gdgahdgadgbdh",
     "phoneNum": "English",
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
   },
   {
-    "name": "Pinelands",
-    "suburb": "Nigeria",
+    "name": "CBD Town",
+    "suburb": "Strand",
     "email": "images/things-fall-apart.jpg",
     "physicalAddress": "gdgahdgadgbdh",
     "phoneNum": "English",
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
-  }
+  },
+  {
+    "name": "CBD Town",
+    "suburb": "Brooklyn",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  },
+  {
+    "name": "CBD Town",
+    "suburb": "Durbanville",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  },  {
+    "name": "CBD Town",
+    "suburb": "Goodwood",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  },  {
+    "name": "CBD Town",
+    "suburb": "Kensington",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  },  {
+    "name": "CBD Town",
+    "suburb": "Maitland",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  },  {
+    "name": "CBD Town",
+    "suburb": "Plattekloof",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  },  {
+    "name": "CBD Town",
+    "suburb": "Claremont",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  },  {
+    "name": "CBD Town",
+    "suburb": "Constantia",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  },  {
+    "name": "CBD Town",
+    "suburb": "",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  },  {
+    "name": "CBD Town",
+    "suburb": "Mowbray",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  },  {
+    "name": "CBD Town",
+    "suburb": "Newlands",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  },  {
+    "name": "CBD Town",
+    "suburb": "Observatory",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  }, {
+    "name": "CBD Town",
+    "suburb": "Rosebank",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  }, {
+    "name": "CBD Town",
+    "suburb": "Fish Hoek",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  }, {
+    "name": "CBD Town",
+    "suburb": "Simon's Town",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  }, {
+    "name": "CBD Town",
+    "suburb": "Wynberg",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  }, {
+    "name": "CBD Town",
+    "suburb": "Pinelands",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  }, {
+    "name": "CBD Town",
+    "suburb": "Milnerton",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  }, {
+    "name": "CBD Town",
+    "suburb": "Montague Gardens",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  }, {
+    "name": "CBD Town",
+    "suburb": "Parklands",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  }, {
+    "name": "CBD Town",
+    "suburb": "Table View",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  }, {
+    "name": "CBD Town",
+    "suburb": "West Beach",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  },
+   {
+    "name": "CBD Town",
+    "suburb": "Thornton",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  }, {
+    "name": "CBD Town",
+    "suburb": "Wolseley",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  }, {
+    "name": "CBD Town",
+    "suburb": "Greyton",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  }, {
+    "name": "CBD Town",
+    "suburb": "Foreshore",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  },
+   {
+    "name": "CBD Town",
+    "suburb": "Parow",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  },
+  {
+    "name": "CBD Town",
+    "suburb": "Bellville",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  } ,
+   {
+    "name": "CBD Town",
+    "suburb": "Summer Set",
+    "email": "images/things-fall-apart.jpg",
+    "physicalAddress": "gdgahdgadgbdh",
+    "phoneNum": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n"
+  } 
 ]

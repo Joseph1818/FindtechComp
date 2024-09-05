@@ -24,11 +24,12 @@ const SearchBar: React.FC<SearchBarProps> = ({ placeholder, data }) => {
     const searchWord = event.target.value;
     setWordEntered(searchWord)
     const newFilter = data.filter((value) => {
-      return value.name.toLowerCase().includes(searchWord.toLowerCase());
+      return value.suburb.toLowerCase().includes(searchWord.toLowerCase());
     });
 
     if (searchWord === "") {
       setFilterData([]);
+
     } else {
       setFilterData(newFilter);
     }
@@ -36,6 +37,7 @@ const SearchBar: React.FC<SearchBarProps> = ({ placeholder, data }) => {
 
   const clearInput = () => {
     setFilterData([]);
+     setWordEntered("");
   };
 
   return (
@@ -55,7 +57,7 @@ const SearchBar: React.FC<SearchBarProps> = ({ placeholder, data }) => {
         <div className="dataResult">
           {filterData.map((value, key) => (
             <div className="" key={key}>
-              <p className="dataItem">{value.name}</p>
+              <p className="dataItem">{value.suburb}</p>
             </div>
           ))}
         </div>
